@@ -10,7 +10,7 @@ alike!
 
 Section Outline:
 
-For task 1 please use the <header> tag
+For task 1 please use the header tag
 
 For task 2 please use id="shop_all"
 
@@ -24,4 +24,4 @@ For task 6 please use id="aside_left" or id="aside_right"
 
 For task 7 please use id="pit_crew"
 
-For task 8 please use the <footer> tag
+For task 8 please use the footer tag
