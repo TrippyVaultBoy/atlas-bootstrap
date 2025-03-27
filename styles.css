@@ -28,3 +28,28 @@
     height: 20px;
     border-radius: 50%;
 }
+
+.droid {
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.droid img {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+.droid h5 {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+.droid p {
+    font-size: 0.9rem;
+    color: #555;
+}

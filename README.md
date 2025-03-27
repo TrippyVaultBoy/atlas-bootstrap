@@ -22,6 +22,6 @@ For task 5 please use dropdowns in id="shop_all"
 
 For task 6 please use id="aside_left" or id="aside_right"
 
-For task 7 please note the responsive image in the id="shop_all"
+For task 7 please use id="pit_crew"
 
 For task 8 please use the <footer> tag
