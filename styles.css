@@ -1,0 +1,13 @@
+.cards-wrapper .card {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cards-wrapper .card img {
+    width: 80%;
+    height: 80%;
+    object-fit: contain;
+}
